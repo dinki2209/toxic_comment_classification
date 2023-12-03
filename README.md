@@ -1,4 +1,7 @@
 Project description:
 The project focuses on text classification, with a specific emphasis on detecting toxic comments. It involves data collection, thorough data preprocessing, and the creation of a labeled dataset. The project utilizes a Long Short-Term Memory (LSTM) neural network model for binary classification, distinguishing between toxic and non-toxic text. Attention is given to ethical considerations in data collection to ensure privacy and fairness. Data quality assurance practices are implemented, and the dataset is partitioned into training, validation, and testing sets. The model's primary goal is to address online toxicity while maintaining ethical responsibilities in handling user-generated content, reflecting its relevance and social consciousness.
+
 Dataset can be accessed and downloaded from the following link:
 https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/dat
+
+The goal is to automatically identify and flag comments that contain hate speech, harassment, or offensive content, making online platforms safer and more inclusive for users. This model should be capable of distinguishing between toxic and non-toxic comments. Additionally, the model should be designed to handle types of toxic content, such as hate speech, threats, insults, and identity attacks, in order to effectively moderate discussions and protect users from harmful online interactions.
